@@ -46,6 +46,7 @@ Visualization plays a crucial role in understanding the model's performance. We 
 
 
 **Conclusion**
+
 This project demonstrates the process of building and training a deep-learning model for plant disease classification using ResNet-50. We can achieve high accuracy with relatively little training data by leveraging transfer learning. This approach can be extended to other image classification tasks, highlighting the versatility and power of deep learning models.
 
 ![image](https://github.com/user-attachments/assets/40d52b0e-2209-497a-a79d-3b2c94ec4cc0)
